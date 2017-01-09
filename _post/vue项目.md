@@ -50,3 +50,4 @@ $ vue init webpack gfzj-vue
 $ npm install
 $ npm run dev
 ~~~
+# slog, 子组件向父组件传递数据
